@@ -1,0 +1,20 @@
+{
+  "name": "learning_reac_midu",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheFilimisco/learning_reac_midu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheFilimisco/learning_reac_midu/issues"
+  },
+  "homepage": "https://github.com/TheFilimisco/learning_reac_midu#readme"
+}
